@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB819C3-278B-4F4B-B593-962A7B4D34DB}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\aplication\\dtos\\productodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB819C3-278B-4F4B-B593-962A7B4D34DB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\productodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB819C3-278B-4F4B-B593-962A7B4D34DB}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\aplication\\dtos\\pedidosdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB819C3-278B-4F4B-B593-962A7B4D34DB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\pedidosdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB819C3-278B-4F4B-B593-962A7B4D34DB}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\aplication\\usescases\\createpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB819C3-278B-4F4B-B593-962A7B4D34DB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usescases\\createpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0698A00-28E2-4DBB-A505-33BF6D3699CE}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0698A00-28E2-4DBB-A505-33BF6D3699CE}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0698A00-28E2-4DBB-A505-33BF6D3699CE}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0698A00-28E2-4DBB-A505-33BF6D3699CE}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B3AB9-3226-45D9-B93A-3FD0BB67E0E6}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B3AB9-3226-45D9-B93A-3FD0BB67E0E6}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0698A00-28E2-4DBB-A505-33BF6D3699CE}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0698A00-28E2-4DBB-A505-33BF6D3699CE}|Api\\Api.csproj|solutionrelative:api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0698A00-28E2-4DBB-A505-33BF6D3699CE}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0698A00-28E2-4DBB-A505-33BF6D3699CE}|Api\\Api.csproj|solutionrelative:api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B3AB9-3226-45D9-B93A-3FD0BB67E0E6}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\domain\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B3AB9-3226-45D9-B93A-3FD0BB67E0E6}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED955DC1-37DF-4ECE-9061-ECDF598CDEF0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\infraestructure\\repositories\\sqlpedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED955DC1-37DF-4ECE-9061-ECDF598CDEF0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\sqlpedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED955DC1-37DF-4ECE-9061-ECDF598CDEF0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED955DC1-37DF-4ECE-9061-ECDF598CDEF0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B3AB9-3226-45D9-B93A-3FD0BB67E0E6}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B3AB9-3226-45D9-B93A-3FD0BB67E0E6}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Migrations\\20250903000035_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infraestructure\\Migrations\\20250903000035_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B3AB9-3226-45D9-B93A-3FD0BB67E0E6}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\domain\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B3AB9-3226-45D9-B93A-3FD0BB67E0E6}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED955DC1-37DF-4ECE-9061-ECDF598CDEF0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\infraestructure\\repositories\\sqlproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED955DC1-37DF-4ECE-9061-ECDF598CDEF0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\sqlproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED955DC1-37DF-4ECE-9061-ECDF598CDEF0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED955DC1-37DF-4ECE-9061-ECDF598CDEF0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB819C3-278B-4F4B-B593-962A7B4D34DB}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BB819C3-278B-4F4B-B593-962A7B4D34DB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0698A00-28E2-4DBB-A505-33BF6D3699CE}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0698A00-28E2-4DBB-A505-33BF6D3699CE}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED955DC1-37DF-4ECE-9061-ECDF598CDEF0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\examenfinal\\infraestructure\\migrations\\20250903001445_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED955DC1-37DF-4ECE-9061-ECDF598CDEF0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\migrations\\20250903001445_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePedidoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Aplication\\UsesCases\\CreatePedidoHandler.cs",
+              "RelativeDocumentMoniker": "Aplication\\UsesCases\\CreatePedidoHandler.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Aplication\\UsesCases\\CreatePedidoHandler.cs",
+              "RelativeToolTip": "Aplication\\UsesCases\\CreatePedidoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:47:13.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Api\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Api\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Api\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswEMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:49:50.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Api\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Api\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwIwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:49:25.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Aplication\\DTOs\\PedidosDtos.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\PedidosDtos.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Aplication\\DTOs\\PedidosDtos.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\PedidosDtos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:41:11.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T23:31:18.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:31:16.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250903001445_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Migrations\\20250903001445_Inicial.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20250903001445_Inicial.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Migrations\\20250903001445_Inicial.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20250903001445_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T00:14:45.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Aplication\\DTOs\\ProductoDtos.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\ProductoDtos.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Aplication\\DTOs\\ProductoDtos.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\ProductoDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:40:48.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:32:02.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Repositories\\SqlPedidoRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\SqlPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Repositories\\SqlPedidoRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\SqlPedidoRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:58:10.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "Domain\\Entities\\Pedido.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:35:49.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:35:16.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Domain\\Interfaces\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Domain\\Interfaces\\IPedidoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:54:07.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250903000035_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Migrations\\20250903000035_Inicial.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20250903000035_Inicial.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Migrations\\20250903000035_Inicial.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20250903000035_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T00:00:35.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Domain\\Interfaces\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Domain\\Interfaces\\IProductoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProductoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:53:47.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SqlProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Repositories\\SqlProductoRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\SqlProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Repositories\\SqlProductoRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\SqlProductoRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:57:45.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Infraestructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T23:55:56.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Aplication.csproj",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Aplication\\Aplication.csproj",
+              "RelativeDocumentMoniker": "Aplication\\Aplication.csproj",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Aplication\\Aplication.csproj",
+              "RelativeToolTip": "Aplication\\Aplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T23:47:25.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\ExamenFinal\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T23:30:23.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
